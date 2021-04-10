@@ -25,3 +25,5 @@ if yaparsın ==  True :
   print("sen kadayıf yaparsın")
 else :
   print("yeterli malzeme yok")
+
+print("git deneme")
