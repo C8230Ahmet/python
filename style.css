@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+#başlık{
+    text-align: center;
+}
+#aile-foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
