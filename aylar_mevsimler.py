@@ -11,7 +11,7 @@ yaz_gün_sayısı = yaz[0][1] + yaz[1][1] + yaz[2][1]
 ilkbahar_gün_sayısı = ilkbahar[0][1] + ilkbahar[1][1] + ilkbahar[2][1]
 sonbahar_gün_sayısı = sonbahar[0][1] + sonbahar[1][1] + sonbahar[2][1]
 kış_gün_sayısı = kış[0][1] + kış[1][1] + kış[2][1]
-print("Yaz toplam bu kadar gün :" + yaz_gün_sayısı)
-print("Kış toplam bu kadar gün :" + kış_gün_sayısı)
-print("İlkbahar toplam bu kadar gün :" + ilkbahar_gün_sayısı)
-print("Sonbahar toplma bu kadar gün :" + sonbahar_gün_sayısı)
+print("Yaz toplam bu kadar gün :" , yaz_gün_sayısı)
+print("Kış toplam bu kadar gün :" , kış_gün_sayısı)
+print("İlkbahar toplam bu kadar gün :" , ilkbahar_gün_sayısı)
+print("Sonbahar toplma bu kadar gün :" , sonbahar_gün_sayısı)
